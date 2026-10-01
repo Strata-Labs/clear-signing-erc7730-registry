@@ -1352,6 +1352,7 @@
       },
       "expected": {
         "intent": "Rotate signing key",
+        "interpolatedIntent": "Move member alice to 0xf65A27FBF56cdb03614f52FCD94a96658f8F176D",
         "owner": "Cofund",
         "fields": [
           {
@@ -1426,6 +1427,7 @@
       },
       "expected": {
         "intent": "Rotate signing key",
+        "interpolatedIntent": "Move member alice to 0x0e17303Dce73c4AB2966858a11BC49F6E54ca561",
         "owner": "Cofund",
         "fields": [
           {
@@ -1500,6 +1502,7 @@
       },
       "expected": {
         "intent": "Rotate signing key",
+        "interpolatedIntent": "Move member alice to 0xf65A27FBF56cdb03614f52FCD94a96658f8F176D",
         "owner": "Cofund",
         "fields": [
           {
@@ -1574,6 +1577,7 @@
       },
       "expected": {
         "intent": "Rotate signing key",
+        "interpolatedIntent": "Move member alice to 0x0e17303Dce73c4AB2966858a11BC49F6E54ca561",
         "owner": "Cofund",
         "fields": [
           {
@@ -2645,6 +2649,7 @@
       },
       "expected": {
         "intent": "Deactivate policy",
+        "interpolatedIntent": "Deactivate policy stipend",
         "owner": "Cofund",
         "fields": [
           {
@@ -2710,6 +2715,7 @@
       },
       "expected": {
         "intent": "Deactivate policy",
+        "interpolatedIntent": "Deactivate policy treasury",
         "owner": "Cofund",
         "fields": [
           {
@@ -2775,6 +2781,7 @@
       },
       "expected": {
         "intent": "Deactivate policy",
+        "interpolatedIntent": "Deactivate policy stipend",
         "owner": "Cofund",
         "fields": [
           {
@@ -2840,6 +2847,7 @@
       },
       "expected": {
         "intent": "Deactivate policy",
+        "interpolatedIntent": "Deactivate policy treasury",
         "owner": "Cofund",
         "fields": [
           {
@@ -2925,6 +2933,7 @@
       },
       "expected": {
         "intent": "Approve transfer",
+        "interpolatedIntent": "Send 100 MOCK18 to 0xFf3da4b2D025454a5ab0f8B4dF72fa8C6eBd188C",
         "owner": "Cofund",
         "fields": [
           {
@@ -3026,6 +3035,7 @@
       },
       "expected": {
         "intent": "Approve transfer",
+        "interpolatedIntent": "Send 5 MOCK18 to 0xf3E61a315300ea6534860E360906b17a66aDb507",
         "owner": "Cofund",
         "fields": [
           {
@@ -3127,6 +3137,7 @@
       },
       "expected": {
         "intent": "Approve transfer",
+        "interpolatedIntent": "Send 100 MOCK18 to 0xFf3da4b2D025454a5ab0f8B4dF72fa8C6eBd188C",
         "owner": "Cofund",
         "fields": [
           {
@@ -3228,6 +3239,7 @@
       },
       "expected": {
         "intent": "Approve transfer",
+        "interpolatedIntent": "Send 5 MOCK18 to 0xf3E61a315300ea6534860E360906b17a66aDb507",
         "owner": "Cofund",
         "fields": [
           {
@@ -3843,6 +3855,7 @@
       },
       "expected": {
         "intent": "Approve transfer",
+        "interpolatedIntent": "Send 1.25 MOCK6 to Fixture recipient",
         "owner": "Cofund",
         "fields": [
           {
@@ -3944,6 +3957,7 @@
       },
       "expected": {
         "intent": "Approve transfer",
+        "interpolatedIntent": "Send 0 MOCK18 to fixture.eth",
         "owner": "Cofund",
         "fields": [
           {
@@ -4045,6 +4059,7 @@
       },
       "expected": {
         "intent": "Approve transfer",
+        "interpolatedIntent": "Send 115792089237316195423570985008687907853269984665640564039457.584007913129639935 MOCK18 to 0xFf3da4b2D025454a5ab0f8B4dF72fa8C6eBd188C",
         "owner": "Cofund",
         "fields": [
           {
@@ -4401,6 +4416,7 @@
       },
       "expected": {
         "intent": "Rotate signing key",
+        "interpolatedIntent": "Move member alice to fixture.eth",
         "owner": "Cofund",
         "fields": [
           {
@@ -4475,6 +4491,7 @@
       },
       "expected": {
         "intent": "Rotate signing key",
+        "interpolatedIntent": "Move member alice to Fixture recipient",
         "owner": "Cofund",
         "fields": [
           {
