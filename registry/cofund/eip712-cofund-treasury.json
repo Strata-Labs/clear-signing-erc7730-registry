@@ -128,7 +128,7 @@
       "Transfer(string company,string policyId,string messageType,uint256 amount,address token,address recipient,string authId)": {
         "$id": "vault-transfer",
         "intent": "Approve transfer",
-        "interpolatedIntent": "Send {amount} to {recipient}",
+        "interpolatedIntent": "Approve transfer of {amount} to {recipient}",
         "fields": [
           { "path": "company", "label": "Company", "format": "raw", "visible": "always" },
           { "path": "amount", "label": "Amount", "format": "tokenAmount", "params": { "tokenPath": "token" }, "visible": "always" },
