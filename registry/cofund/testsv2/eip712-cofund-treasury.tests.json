@@ -2933,7 +2933,7 @@
       },
       "expected": {
         "intent": "Approve transfer",
-        "interpolatedIntent": "Send 100 MOCK18 to 0xFf3da4b2D025454a5ab0f8B4dF72fa8C6eBd188C",
+        "interpolatedIntent": "Approve transfer of 100 MOCK18 to 0xFf3da4b2D025454a5ab0f8B4dF72fa8C6eBd188C",
         "owner": "Cofund",
         "fields": [
           {
@@ -3035,7 +3035,7 @@
       },
       "expected": {
         "intent": "Approve transfer",
-        "interpolatedIntent": "Send 5 MOCK18 to 0xf3E61a315300ea6534860E360906b17a66aDb507",
+        "interpolatedIntent": "Approve transfer of 5 MOCK18 to 0xf3E61a315300ea6534860E360906b17a66aDb507",
         "owner": "Cofund",
         "fields": [
           {
@@ -3137,7 +3137,7 @@
       },
       "expected": {
         "intent": "Approve transfer",
-        "interpolatedIntent": "Send 100 MOCK18 to 0xFf3da4b2D025454a5ab0f8B4dF72fa8C6eBd188C",
+        "interpolatedIntent": "Approve transfer of 100 MOCK18 to 0xFf3da4b2D025454a5ab0f8B4dF72fa8C6eBd188C",
         "owner": "Cofund",
         "fields": [
           {
@@ -3239,7 +3239,7 @@
       },
       "expected": {
         "intent": "Approve transfer",
-        "interpolatedIntent": "Send 5 MOCK18 to 0xf3E61a315300ea6534860E360906b17a66aDb507",
+        "interpolatedIntent": "Approve transfer of 5 MOCK18 to 0xf3E61a315300ea6534860E360906b17a66aDb507",
         "owner": "Cofund",
         "fields": [
           {
@@ -3855,7 +3855,7 @@
       },
       "expected": {
         "intent": "Approve transfer",
-        "interpolatedIntent": "Send 1.25 MOCK6 to Fixture recipient",
+        "interpolatedIntent": "Approve transfer of 1.25 MOCK6 to Fixture recipient",
         "owner": "Cofund",
         "fields": [
           {
@@ -3957,7 +3957,7 @@
       },
       "expected": {
         "intent": "Approve transfer",
-        "interpolatedIntent": "Send 0 MOCK18 to fixture.eth",
+        "interpolatedIntent": "Approve transfer of 0 MOCK18 to fixture.eth",
         "owner": "Cofund",
         "fields": [
           {
@@ -4059,7 +4059,7 @@
       },
       "expected": {
         "intent": "Approve transfer",
-        "interpolatedIntent": "Send 115792089237316195423570985008687907853269984665640564039457.584007913129639935 MOCK18 to 0xFf3da4b2D025454a5ab0f8B4dF72fa8C6eBd188C",
+        "interpolatedIntent": "Approve transfer of 115792089237316195423570985008687907853269984665640564039457.584007913129639935 MOCK18 to 0xFf3da4b2D025454a5ab0f8B4dF72fa8C6eBd188C",
         "owner": "Cofund",
         "fields": [
           {
