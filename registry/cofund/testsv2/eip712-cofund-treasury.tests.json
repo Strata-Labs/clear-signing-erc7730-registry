@@ -3371,7 +3371,7 @@
             "value": "mint-token"
           },
           {
-            "label": "Instructions hash",
+            "label": "Hash (see Cofund)",
             "value": "0x2e10ea65e8842925cf2e61b19c59a6ae6a6e5674f868567d525f06e32af93215"
           },
           {
@@ -3512,7 +3512,7 @@
             "value": "2 MOCK18"
           },
           {
-            "label": "Instructions hash",
+            "label": "Hash (see Cofund)",
             "value": "0xeb56b1d3ea8cb70aecb2523bb3f1061affbd3cc2b5d6307a2fafc6a1c1f4c868"
           },
           {
@@ -3628,7 +3628,7 @@
             "value": "mint-token"
           },
           {
-            "label": "Instructions hash",
+            "label": "Hash (see Cofund)",
             "value": "0x2e10ea65e8842925cf2e61b19c59a6ae6a6e5674f868567d525f06e32af93215"
           },
           {
@@ -3769,7 +3769,7 @@
             "value": "2 MOCK18"
           },
           {
-            "label": "Instructions hash",
+            "label": "Hash (see Cofund)",
             "value": "0xeb56b1d3ea8cb70aecb2523bb3f1061affbd3cc2b5d6307a2fafc6a1c1f4c868"
           },
           {
@@ -4216,7 +4216,7 @@
             "value": "2.5 MOCK6"
           },
           {
-            "label": "Instructions hash",
+            "label": "Hash (see Cofund)",
             "value": "0x2e10ea65e8842925cf2e61b19c59a6ae6a6e5674f868567d525f06e32af93215"
           },
           {
@@ -4345,7 +4345,7 @@
             "value": "0 MOCK6"
           },
           {
-            "label": "Instructions hash",
+            "label": "Hash (see Cofund)",
             "value": "0x2e10ea65e8842925cf2e61b19c59a6ae6a6e5674f868567d525f06e32af93215"
           },
           {
@@ -4611,7 +4611,7 @@
             "value": "mint-token"
           },
           {
-            "label": "Instructions hash",
+            "label": "Hash (see Cofund)",
             "value": "0x2e10ea65e8842925cf2e61b19c59a6ae6a6e5674f868567d525f06e32af93215"
           },
           {

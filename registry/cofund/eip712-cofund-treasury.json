@@ -183,7 +183,7 @@
               }
             ]
           },
-          { "path": "instructionsHash", "label": "Instructions hash", "format": "raw", "visible": "always" },
+          { "path": "instructionsHash", "label": "Hash (see Cofund)", "format": "raw", "visible": "always" },
           { "path": "policyId", "label": "Policy ID", "format": "raw", "visible": "always" },
           { "path": "messageType", "label": "Policy type", "format": "raw", "visible": "always" },
           { "path": "authId", "label": "Authorization ID", "format": "raw", "visible": "never" }
